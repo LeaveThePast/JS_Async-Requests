@@ -23,3 +23,4 @@ async function loadPoll() {
         console.error("Произошла ошибка при загрузке опроса:", error);
     }
 }
+loadPoll();
